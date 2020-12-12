@@ -36,6 +36,6 @@ Below is the detailed code segment with the loop, only one Index was applied to 
 
 Besides decreasing the code execution time and using less memory, refactoring can simplify the code by making it more efficient and reliable. It can reduce the number of repetitive tasks and avoid manual changes. Refactoring helps the user to read, understand, modify and even enhance the code even further.
 
-The disadvantages of refactoring would be the time and resources consumed on something that was already delivering what was neededed. It can also lead to new bugs or mistakes that can take time to be solved. 
+The disadvantages of refactoring would be the time and resources consumed on something that was already delivering what was required. It can also lead to new bugs or mistakes that can take time to be solved. 
 
 For this challenge, the refactored macro can be beneficial in the future if the user wants to process a larger amount of data (e.g. all stocks traded), but for the specific analysis done for only 12 stocks it might not be worth to spend time improving the code since the process time was not an issue. The difference to run the macros was just seconds, so the difference in waiting times were not perceptible to the user. It would be a different situation if the analysis contained thousands of stocks, then the code execution time would be relevant. 
