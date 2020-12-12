@@ -17,6 +17,8 @@ In 2018, the scenario is quite the opposite from previous year; most companies l
 
 The analysis indicates that just considering the historical stock information might not be the best method to determine which stocks someone should invest. For Steve’s parents that invested everything in DQ shares, 2018 was not a profitable year.
 
+#### Code Execution Time
+![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Code%20running%20time.png)
 
 ## Summary
 Summary: In a summary statement, address the following questions.
