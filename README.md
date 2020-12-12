@@ -34,3 +34,9 @@ Below is the detailed code for the loop, only one Index was applied to 4 arrays:
 Summary: In a summary statement, address the following questions.
 #### a) What are the advantages or disadvantages of refactoring code?
 #### b) How do these pros and cons apply to refactoring the original VBA script?
+
+Besides decreasing the code execution time and using less memory, refactoring can simplify the code by making it more efficient. It can reduce the number of repetitive tasks and avoid manual changes making it more reliable. Refactoring helps the user to read, understand, modify and even enhance the code even further.
+
+The disadvantages of refactoring would be the time and resources consumed on something that was already delivering what you needed. It can also lead to new bugs or mistakes that can take time to be solved depending on the complexity. 
+
+For this challenge, the refactored macro can be beneficial in the future if the user wants to process a larger amount of data (e.g. all stocks traded), but for the specific analysis done for only 12 stocks it might not be worth to spend time improving the code since the process time was not an issue. The difference to run the macros was just seconds, so the waiting time was not perceptible to the user. It would be a different situation if the analysis contained thousands of stocks, then the code execution time would be relevant. 
