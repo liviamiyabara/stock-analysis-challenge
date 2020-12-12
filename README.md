@@ -31,7 +31,6 @@ Below is the detailed code for the loop, only one Index was applied to 4 arrays:
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Loop%20tickerIndex.png)
 
 ## Summary
-Summary: In a summary statement, address the following questions.
 #### a) What are the advantages or disadvantages of refactoring code?
 #### b) How do these pros and cons apply to refactoring the original VBA script?
 
