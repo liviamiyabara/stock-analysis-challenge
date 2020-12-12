@@ -13,7 +13,7 @@ In the output table, Steve will be able to evaluate which stocks had greater ret
 
 Overall, 2017 was a good year for most of the companies in the analysis except for TERP, which was the only share that lost value in that year, -7.2% return. The stocks with the highest returns were DQ (199.4%) and SEDG (184.5%).
 
-In 2018, the scenario is quite the opposite from previous year; most companies lost their stock value, only RUN and ENPH had positive returns (84.0% and 81.9% respectively), DQ and JKS had the worst performance based on the tickers in the list with -62.6% and -60.5% return respectively.   
+In 2018, the scenario is quite the opposite from previous year; most companies lost their stock value, only RUN and ENPH had positive returns (84.0% and 81.9% respectively). DQ and JKS had the worst performance based on the tickers in the list with -62.6% and -60.5% return respectively.   
 
 The data shows that only looking at the historical stock information might not be the best method to determine which stocks someone should invest. For Steve’s parents that invested everything in DQ shares, 2018 was not a profitable year.
 
