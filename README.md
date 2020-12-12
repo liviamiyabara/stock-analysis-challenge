@@ -1,6 +1,5 @@
 # stock-analysis
-Challenge 2
-Module 2: VBA
+Challenge 2: VBA
 
 ## Overview of Project
 
