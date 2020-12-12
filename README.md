@@ -3,7 +3,9 @@ Challenge 2
 Module 2: VBA
 
 ## Overview of Project
-Overview of Project: Explain the purpose of this analysis.
+
+The analysis was developed to help the user determine the total daily volume and return for a set of stocks in a selected year. Daily volume is the total number of shares traded during a day; it calculates how actively a stock is traded. The yearly return is the percentage difference in price from the beginning of the year to the end of the year; showing the investor if the shares gained or lost value with time. 
+In the output table Steve will be able to evaluate which stocks had greater returns to help his parents make informed decisions about where to invest based on historical data.
 
 ## Results
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
