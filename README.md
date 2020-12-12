@@ -21,10 +21,11 @@ The analysis indicates that just considering the historical stock information mi
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Code%20running%20time.png)
 
 The new refactored macro decreased the running time from 8.20 to 0.07 seconds, improving it by 99%. The main driver for the optimization was the tickerIndex variable that access the correct index across the four different arrays: 
-•	tickerVolumes: holds the sum of the total number of shares traded during a day for a given ticker
-•	tickerStartingPrices: stores the starting price of a specific ticker
-•	tickerEndingPrices: stores the ending price of a specific ticker
-•	tickers: stores the specific ticker name
+
+*	tickerVolumes: holds the sum of the total number of shares traded during a day for a given ticker
+*	tickerStartingPrices: stores the starting price of a specific ticker
+*	tickerEndingPrices: stores the ending price of a specific ticker
+*	tickers: stores the specific ticker name
 
 
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Loop%20tickerIndex.png)
