@@ -20,12 +20,12 @@ The analysis indicates that just considering the historical stock information mi
 ### Code Execution Time
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Code%20running%20time.png)
 
-The new refactored macro decreased the running time from 8.20 to 0.07 seconds, improving it by 99%. The main driver for the optimization was using the tickerIndex variable in a loop that accessed the correct index across the four different arrays: 
+The new refactored macro decreased the running time from 8.20 to 0.07 seconds, improving it by 99%. The main driver for the optimization was using the tickerIndex variable in a loop that accessed the correct index, in our case each ticker, across the four different arrays: 
 
-*	tickerVolumes: holds the sum of the total number of shares traded during a day for a given ticker
-*	tickerStartingPrices: stores the starting price of a specific ticker
-*	tickerEndingPrices: stores the ending price of a specific ticker
-*	tickers: stores the specific ticker name
+*	tickerVolumes: sum of the total number of shares traded 
+*	tickerStartingPrices: starting price of the stock
+*	tickerEndingPrices: ending price of the stock
+*	tickers: ticker name
 
 Below is the detailed code for the loop, only one Index was applied to 4 arrays:
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Loop%20tickerIndex.png)
@@ -33,5 +33,4 @@ Below is the detailed code for the loop, only one Index was applied to 4 arrays:
 ## Summary
 Summary: In a summary statement, address the following questions.
 #### a) What are the advantages or disadvantages of refactoring code?
-
 #### b) How do these pros and cons apply to refactoring the original VBA script?
