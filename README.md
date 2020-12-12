@@ -27,7 +27,7 @@ The new refactored macro decreased the running time from 8.20 to 0.07 seconds, i
 *	tickerEndingPrices: stores the ending price of a specific ticker
 *	tickers: stores the specific ticker name
 
-
+Below is the detailed code for the loop, only one Index was applied to 4 arrays:
 ![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/Loop%20tickerIndex.png)
 
 ## Summary
