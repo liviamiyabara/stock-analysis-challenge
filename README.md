@@ -8,6 +8,8 @@ The analysis was developed to help the user determine the total daily volume and
 In the output table, Steve will be able to evaluate which stocks had greater returns to help his parents make informed decisions about where to invest based on historical data.
 
 ## Results
+
+![ScreenShot](https://github.com/liviamiyabara/stock-analysis-challenge/blob/main/Resources/All%20Stocks%20(2017%20%26%202018).png)
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 ## Summary
