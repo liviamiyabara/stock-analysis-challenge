@@ -15,7 +15,7 @@ Overall, 2017 was a good year for most of the companies in the analysis except f
 
 In 2018, the scenario is quite the opposite from previous year; most companies lost their stock value, only RUN and ENPH had positive returns (84.0% and 81.9% respectively). DQ and JKS had the worst performance based on the tickers in the list with -62.6% and -60.5% return respectively.   
 
-The data shows that only looking at the historical stock information might not be the best method to determine which stocks someone should invest. For Steve’s parents that invested everything in DQ shares, 2018 was not a profitable year.
+The analysis indicates that just considering the historical stock information might not be the best method to determine which stocks someone should invest. For Steve’s parents that invested everything in DQ shares, 2018 was not a profitable year.
 
 
 ## Summary
